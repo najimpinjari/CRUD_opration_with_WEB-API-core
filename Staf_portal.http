@@ -1,0 +1,6 @@
+@Staf_portal_HostAddress = http://localhost:5219
+
+GET {{Staf_portal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
